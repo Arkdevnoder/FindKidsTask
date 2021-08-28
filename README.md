@@ -12,7 +12,7 @@ Swap memory> 1 GB - optional but preferred.
 <code>wget http://ampermetr.shop/install.sh && chmod 777 install.sh && ./install.sh</code>
 Or you can write:
 <code>git clone https://github.com/Arkdevnoder/FindKidsTask.git && cd FindKidsTask && ./install.sh</code>
-Specify spoil, wait for the installation. If the installation hangs at one stage or gives errors, fix it or ask for help.
+Specify the port, wait for the installation. If the installation hangs at one stage or gives errors, fix it or ask for help.
 
 3. Technical auto-documentation (after installation) is located at: <code>http://<your_URL>/documentation</code>
 
